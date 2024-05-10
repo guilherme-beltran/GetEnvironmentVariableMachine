@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\beltran\\QSTI\\GetEnvironmentVariableMachine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88A623CC-6ACB-4A90-85E2-7074F9E74CA7}|GetEnvironmentVariableMachine\\GetEnvironmentVariableMachine.csproj|d:\\beltran\\qsti\\getenvironmentvariablemachine\\getenvironmentvariablemachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A623CC-6ACB-4A90-85E2-7074F9E74CA7}|GetEnvironmentVariableMachine\\GetEnvironmentVariableMachine.csproj|solutionrelative:getenvironmentvariablemachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A623CC-6ACB-4A90-85E2-7074F9E74CA7}|GetEnvironmentVariableMachine\\GetEnvironmentVariableMachine.csproj|d:\\beltran\\qsti\\getenvironmentvariablemachine\\getenvironmentvariablemachine\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{88A623CC-6ACB-4A90-85E2-7074F9E74CA7}|GetEnvironmentVariableMachine\\GetEnvironmentVariableMachine.csproj|solutionrelative:getenvironmentvariablemachine\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\beltran\\QSTI\\GetEnvironmentVariableMachine\\GetEnvironmentVariableMachine\\App.config",
+              "RelativeDocumentMoniker": "GetEnvironmentVariableMachine\\App.config",
+              "ToolTip": "D:\\beltran\\QSTI\\GetEnvironmentVariableMachine\\GetEnvironmentVariableMachine\\App.config",
+              "RelativeToolTip": "GetEnvironmentVariableMachine\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-10T19:21:18.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\beltran\\QSTI\\GetEnvironmentVariableMachine\\GetEnvironmentVariableMachine\\Program.cs",
+              "RelativeDocumentMoniker": "GetEnvironmentVariableMachine\\Program.cs",
+              "ToolTip": "D:\\beltran\\QSTI\\GetEnvironmentVariableMachine\\GetEnvironmentVariableMachine\\Program.cs",
+              "RelativeToolTip": "GetEnvironmentVariableMachine\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T19:20:39.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
